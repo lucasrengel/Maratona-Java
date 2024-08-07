@@ -9,5 +9,6 @@ public class CalculadoraTest {
         System.out.println("Resultado da subtracao: " + calcudora.subtracao(10, 20));
         System.out.println("Resultado da multiplicacao: "+calcudora.multiplica(10, 20));
         System.out.println("Resultado da divisao: " + calcudora.divisao(42, 10));
+
     }
 }
